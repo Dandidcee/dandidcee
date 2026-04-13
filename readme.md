@@ -11,6 +11,6 @@ _"Strive to build something amazing every day!"_
 <br/>
 <br/>
 
-<img src="https://media.tenor.com/_q1pI1zD3XQAAAAC/bongo-cat-typing.gif" alt="Bongo Cat" width="300" />
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14cb5c46.gif" alt="Cute Coding Cat" width="250" />
 
 </div>
